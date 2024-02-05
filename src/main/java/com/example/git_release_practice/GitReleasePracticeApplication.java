@@ -8,6 +8,8 @@ public class GitReleasePracticeApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GitReleasePracticeApplication.class, args);
+
+        // second commit
     }
 
 }
